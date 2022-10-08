@@ -67,7 +67,7 @@ dependencies {
 
     testImplementation 'junit:junit:4.13.1'
 
-    implementation files('libs/swerve-lib-1.1.0.jar')
+    implementation files('libs/swerve-lib-1.2.2.jar')
 }
 
 // Simulation configuration (e.g. environment variables).
